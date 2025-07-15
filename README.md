@@ -42,4 +42,9 @@ Ubuntu (Linux) – Command-line based development environment
   **Sample Tests**
 - Insert `2 + 1` → Product dispensed
 - Insert `2 + 2` → Product + Change
-- Insert `1 + 1 + 1` → Product dispensed 
+- Insert `1 + 1 + 1` → Product dispensed
+
+
+ ## Simulation Result:
+ <img width="1637" height="427" alt="vend 1" src="https://github.com/user-attachments/assets/ea912348-5f4a-47a0-8092-ca38379231d5" />
+
