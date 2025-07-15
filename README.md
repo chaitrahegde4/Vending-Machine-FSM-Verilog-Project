@@ -7,8 +7,15 @@ This vending machine accepts **1-unit and 2-unit coins**. When **3 units or more
 - It **dispenses a product**
 - **Returns change** if 4 units are inserted
 The design is implemented as a **Moore FSM**, using behavioral Verilog and verified with a self-checking testbench.
+ 
+## Toolchain
+Icarus Verilog – Verilog compilation and simulation
 
----
+GTKWave – Waveform viewing and analysis
+
+Ubuntu (Linux) – Command-line based development environment
+
+
 
 ## File Structure
 
